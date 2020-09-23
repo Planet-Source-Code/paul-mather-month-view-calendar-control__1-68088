@@ -1,0 +1,73 @@
+[Root]
+Most Recent Package=Calendar Control
+
+
+[Package|Calendar Control|Root]
+SubWizProgID=PDWizard.InetCABPkgSubWiz
+BuildFolder=C:\Projects\VaporWare\Calendar Control\Package
+Controls Design-Time Support=No
+
+[Package|Calendar Control|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Calendar Control|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Calendar Control|Files Found]
+
+[Package|Calendar Control|Files Released]
+
+[Package|Calendar Control|Missing Dependency Information]
+
+[Package|Calendar Control|Out-of-Date Dependency Information]
+
+[Package|Calendar Control|Files Added]
+c:\windows\system\msstkprp.dll=This file is needed for usercontrol design-time support.
+
+[Package|Calendar Control|Files Removed]
+c:\windows\system\msstkprp.dll=
+
+[Package|Calendar Control|Files In Project]
+C:\Projects\VaporWare\Calendar Control\Calendar.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=No
+
+[Package|Calendar Control|Configure Registry Files]
+Applicable=No
+
+[Package|Calendar Control|Configure Remote Servers]
+Applicable=No
+
+[Package|Calendar Control|Install Locations]
+
+[Package|Calendar Control|Configure Shared Files]
+Applicable=
+
+[Package|Calendar Control|ComponentInfo]
+Calendar.ocx=thiscab
+MSVBVM60.DLL=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+OLEAUT32.DLL=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+OLEPRO32.DLL=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+ASYCFILT.DLL=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+STDOLE2.TLB=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+COMCAT.DLL=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+
+[Package|Calendar Control|ObjectInfo]
+cAlarmGroup=false;false
+cAlarm=false;false
+ctlCalendar=true;true
+
+[Package|Calendar Control|Package]
+PackageFolder=C:\Projects\VaporWare\Calendar Control\Package
+ProjectFolder=C:\Projects\VaporWare\Calendar Control
+ServerSideCab=C:\Projects\VaporWare\Calendar Control\Package\Calendar.CAB
+File1=C:\Projects\VaporWare\Calendar Control\Package\Calendar.CAB
+File2=C:\Projects\VaporWare\Calendar Control\Package\Calendar.HTM
+Handler1=PDWizard.WebPostDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
